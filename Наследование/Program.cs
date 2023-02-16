@@ -8,6 +8,6 @@
         yaz.GetInfo();
         LargeCrane yama = new("Автокран", "КАМАЗ", "КС 45717К-1");
         yama.GetInfo();
-        /
+
     }
 }
